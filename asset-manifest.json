@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/opeqedemo/static/css/main.f65d6069.chunk.css",
+    "main.js": "/opeqedemo/static/js/main.03f15cf0.chunk.js",
+    "main.js.map": "/opeqedemo/static/js/main.03f15cf0.chunk.js.map",
+    "runtime-main.js": "/opeqedemo/static/js/runtime-main.3bcf81c4.js",
+    "runtime-main.js.map": "/opeqedemo/static/js/runtime-main.3bcf81c4.js.map",
+    "static/js/2.5db9f727.chunk.js": "/opeqedemo/static/js/2.5db9f727.chunk.js",
+    "static/js/2.5db9f727.chunk.js.map": "/opeqedemo/static/js/2.5db9f727.chunk.js.map",
+    "index.html": "/opeqedemo/index.html",
+    "precache-manifest.0e526ce2a594265a6707b7335fe53b65.js": "/opeqedemo/precache-manifest.0e526ce2a594265a6707b7335fe53b65.js",
+    "service-worker.js": "/opeqedemo/service-worker.js",
+    "static/css/main.f65d6069.chunk.css.map": "/opeqedemo/static/css/main.f65d6069.chunk.css.map",
+    "static/media/HomeHeader.jpg": "/opeqedemo/static/media/HomeHeader.d4396cb2.jpg",
+    "static/media/App.css": "/opeqedemo/static/media/Trebuchet MS.d363e53a.ttf",
+    "static/media/arrow.40faf275.svg": "/opeqedemo/static/media/arrow.40faf275.svg",
+    "static/media/logo.aad3376b.svg": "/opeqedemo/static/media/logo.aad3376b.svg",
+    "static/media/shopBag.8fd18a54.svg": "/opeqedemo/static/media/shopBag.8fd18a54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bcf81c4.js",
+    "static/js/2.5db9f727.chunk.js",
+    "static/css/main.f65d6069.chunk.css",
+    "static/js/main.03f15cf0.chunk.js"
+  ]
+}
