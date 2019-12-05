@@ -1,0 +1,19 @@
+$mainColor: rgb(255, 195, 171);
+
+.mainImage {
+  height: 430px;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+  top: 80px;
+  background-color: $mainColor;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  justify-content: center;
+  z-index: 0;
+  margin: 0;
+}

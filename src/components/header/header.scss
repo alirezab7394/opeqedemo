@@ -1,0 +1,23 @@
+.header {
+  height: 80px !important;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+
+  &-logo {
+    height: 32px !important;
+    width: 100px;
+    margin-top: 3px;
+    margin-left: 58px;
+  }
+}
+header {
+  display: flex;
+  justify-content: center;
+  z-index: 99;
+  position: fixed;
+  width: 100vw !important;
+  overflow-x: hidden;
+  transition: background-color 0.4s;
+}

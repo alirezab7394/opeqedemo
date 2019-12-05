@@ -1,0 +1,12 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  color: rgb(105, 105, 105);
+
+  &-icon {
+    font-size: 30px;
+    height: 1em;
+    width: 1em;
+    fill: rgb(2, 103, 100);
+  }
+}
